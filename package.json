@@ -1,0 +1,25 @@
+{
+  "name": "watch-store",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "all": "concurrently \"npm start \" \"npm run server \" ",
+    "start": "parcel index.html store.html checkout.html",
+    "build": "parcel build index.html store.html checkout.html success.html",
+    "server": "nodemon server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Casio MDV106 watch",
+    "category": "smart",
+    "priceCents": 11600,
+    "imageColor": "watch1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Swatch 1907 Bau watch",
+    "category": "classical",
+    "priceCents": 2500,
+    "imageColor": "watch2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Swatch Clearly Gent watch",
+    "category": "classical",
+    "priceCents": 3400,
+    "imageColor": "watch3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tissot Carson watch",
+    "category": "Classical Watch",
+    "priceCents": 1800,
+    "imageColor": "watch4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tissot Seastar 1000 watch",
+    "category": "Smart",
+    "priceCents": 1600,
+    "imageColor": "watch5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Timex Easy Reader watch",
+    "category": "Classical",
+    "priceCents": 2100,
+    "imageColor": "watch6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Timex Expedition Scout 36mm watch",
+    "category": "Classical",
+    "priceCents": 6700,
+    "imageColor": "watch7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Timex Q for Todd Snyder watch",
+    "category": "Classical",
+    "priceCents": 11100,
+    "imageColor": "watch8.jpg"
+  }
+]
